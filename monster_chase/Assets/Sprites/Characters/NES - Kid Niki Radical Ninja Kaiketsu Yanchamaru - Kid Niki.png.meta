@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 2aa110932cfbec24089cca047ca9c98d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6525965786571675333
+    second: Kid Niki - Title
+  - first:
+      213: -1799804037693579597
+    second: Kid Niki - Enemy(Blue)_0
+  - first:
+      213: 1947817489698984580
+    second: Kid Niki - Enemy(Blue)_1
+  - first:
+      213: 5840740883264136979
+    second: Kid Niki - Enemy(Blue)_2
+  - first:
+      213: 1197418201841168653
+    second: Kid Niki - Enemy(Blue)_hit
+  - first:
+      213: 3820931858214019853
+    second: Kid Niki - Enemy(Bird)_0
+  - first:
+      213: 737058792775415965
+    second: Kid Niki - Enemy(Bird)_1
+  - first:
+      213: 4405378754866130922
+    second: Kid Niki - Enemy(Red)_0
+  - first:
+      213: 3237730547000797193
+    second: Kid Niki - Enemy(Red)_2
+  - first:
+      213: -5461916532800399269
+    second: Kid Niki - Enemy(Red)_weapon
+  - first:
+      213: -635641860378780774
+    second: Kid Niki - Enemy(Red)_attacking
+  - first:
+      213: -3718823019172119553
+    second: Kid Niki - Niki_standing
+  - first:
+      213: 7671421675340637764
+    second: Kid Niki - Niki_0
+  - first:
+      213: -6484237107624205246
+    second: Kid Niki - Niki_1
+  - first:
+      213: 6075338358095969416
+    second: Kid Niki - Niki_2
+  - first:
+      213: -9180997362404778671
+    second: Kid Niki - Niki_jumping
+  - first:
+      213: 1004767697240197565
+    second: Kid Niki - Niki_crouching
+  - first:
+      213: 3366841296514689056
+    second: Kid Niki - Niki_hit
+  - first:
+      213: -1207899474344070126
+    second: Kid Niki - Niki_attack_0
+  - first:
+      213: 6681732667384510366
+    second: Kid Niki - Player(Left)_0
+  - first:
+      213: -4799068028460677926
+    second: Kid Niki - Niki_attack_1
+  - first:
+      213: 1557065252116127786
+    second: Kid Niki - Niki_jump_attack_0
+  - first:
+      213: -686797194385769333
+    second: Kid Niki - Player(Left)_attack
+  - first:
+      213: 5935486375321070591
+    second: Kid Niki - Niki_jump_attack_1
+  - first:
+      213: -149192269157318697
+    second: Kid Niki - Player(Left)_jump_attack
+  - first:
+      213: 8859699484813398694
+    second: Kid Niki - Player(Left)_duck
+  - first:
+      213: -1742475499555200767
+    second: Kid Niki - Player(Left)_dead
+  - first:
+      213: 6220710144243615424
+    second: Kid Niki - Weapon_0
+  - first:
+      213: -4962427947643789897
+    second: Kid Niki - Weapon_1
+  - first:
+      213: 2501651261102370423
+    second: Kid Niki - Enemy(Bird)_0
+  - first:
+      213: 1777486154483821258
+    second: Kid Niki - Enemy(Bird)_1
+  - first:
+      213: -8203960437820645180
+    second: Kid Niki - Enemy(Bird)_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kid Niki - Title
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 184
+        width: 209
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c615fc8e43e09a50800000000000000
+      internalID: 6525965786571675333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Blue)_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 153
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed5f373cfc507e0800000000000000
+      internalID: -1799804037693579597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Blue)_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 152
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4821dc8dfa9080b10800000000000000
+      internalID: 1947817489698984580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Blue)_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 152
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3176f0443ea7e0150800000000000000
+      internalID: 5840740883264136979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Blue)_hit
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 151
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d017458a2851e9010800000000000000
+      internalID: 1197418201841168653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Bird)_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e1d7e74da60530800000000000000
+      internalID: 3820931858214019853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Bird)_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98f4f1211f8a3a00800000000000000
+      internalID: 737058792775415965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Red)_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 116
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef29d803ac032d30800000000000000
+      internalID: 4405378754866130922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Red)_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 115
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908e96c37cabeec20800000000000000
+      internalID: 3237730547000797193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Red)_weapon
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 139
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5859951adf5334b0800000000000000
+      internalID: -5461916532800399269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Red)_attacking
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 117
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b11c3881fbd27f0800000000000000
+      internalID: -635641860378780774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_standing
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 81
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb33bfca26146cc0800000000000000
+      internalID: -3718823019172119553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 81
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44629e86e5d567a60800000000000000
+      internalID: 7671421675340637764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 81
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24427a0a4bc5306a0800000000000000
+      internalID: -6484237107624205246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 81
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c7d945c00ff4450800000000000000
+      internalID: 6075338358095969416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_jumping
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 84
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d901aba8b869080800000000000000
+      internalID: -9180997362404778671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_crouching
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 49
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db90acba5e6a1fd00800000000000000
+      internalID: 1004767697240197565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_hit
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028afd5225c69be20800000000000000
+      internalID: 3366841296514689056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_attack_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 44
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214375be3ddac3fe0800000000000000
+      internalID: -1207899474344070126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_attack_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 44
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4caaefd09466db0800000000000000
+      internalID: -4799068028460677926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_jump_attack_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a206c7cd89ecb9510800000000000000
+      internalID: 1557065252116127786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Niki_jump_attack_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbee2a29651f5250800000000000000
+      internalID: 5935486375321070591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Niki - Enemy(Red)_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 116
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a750c27da52e80800000000000000
+      internalID: -8203960437820645180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
